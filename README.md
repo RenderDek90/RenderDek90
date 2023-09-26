@@ -1,7 +1,17 @@
 
 <div align="center">
-<h1>I'm Darren Ezra</h1>
+<h2>I'm Darren Ezra</h2>
 <h3>A person who has design skills, and has the curiosity to become a Full Stack Developer</h3>
+</div>
+
+<div align="center">
+  <img width="10%" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
+  <img width="13.5%" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img width="12%" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img width="9.2%" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
+  <img width="8.5%" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+ 
+  
 </div>
 
 <div widt="100%" align="center">
@@ -9,40 +19,28 @@
 </div>
 
 <hr />
-👋 Hi, my name is Darren Ezra. I'm passionate about design and coding, and I'm on a journey to become a full-stack developer. Combining design and coding is my forte, and I'm always eager to learn new things.
+<h3>About Me</h3>
+<p>👋 Hi, my name is Darren Ezra. I'm passionate about design and coding, and I'm on a journey to become a full-stack developer. Combining design and coding is my forte, and I'm always eager to learn new things.  </p>
+<p>🚀 Currently, I'm diving into the MERN stack (MongoDB, Express.js, React, and Node.js) as I gear up for my next thrilling project. Stay tuned for updates and exciting projects in the pipeline!</p>
 
-🚀 Currently, I'm diving into the MERN stack (MongoDB, Express.js, React, and Node.js) as I gear up for my next thrilling project. While I'm relatively new to coding, I'm excited to learn and take on new challenges. Stay tuned for updates and exciting projects in the pipeline!
-
-## About Me
-
-🔭 I’m currently working on my thesis project 
-🌱 I’m currently learning MERN 
-🤔 I’m looking for help with tips for being a better developer 
-💬 Ask me about anything 
-📫 How to reach me: darrenezra902@gmail.com 
-⚡ Fun fact: I'm an eater
-🌍 Located in North Jakarta, Indonesia 
+🌍 Located in North Jakarta, Indonesia  
 🎓 Graduating Soon from Bina Nusantara University  
 📚 Enthusiastic Learner | Creative Thinker  
+🔭 I’m currently working on my thesis project  
+🤔 I’m looking for help with tips for being a better developer  
+⚡ Fun fact: I'm an eater 
 
-## Skills and Interests
+<h3>Skills and Interests</h3>
 
 🚀 Full Stack Development: MERN Stack  
 💡 Strong Design Background: Adobe Suite, Figma, Blender  
 💻 Proficient in: HTML, CSS, JavaScript, ReactJS, Laravel, Flutter  
-🎨 Design Skills: Graphic Design, UI/UX, Video Editing
+🎨 Design Skills: Graphic Design, UI/UX, Video Editing  
 
-## Projects & Learning Journey
-
-🛠️ Built several Laravel projects  
-📘 Currently mastering the MERN stack  
-🎓 Crafting my Thesis project  
-🌱 Lifelong learner with a thirst for knowledge  
-
-## Let's Connect
+<h3>Let's Connect</h3>
 
 📧 Email: darrenezra902@gmail.com  
-💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/darren-ezra-9090/)  
-🌐 Portfolio: [Your Portfolio](https://dsite.netlify.com)  
+💼 LinkedIn: [Darren Ezra](https://www.linkedin.com/in/darren-ezra-9090/)  
+🌐 Portfolio: [DSITE](https://dsite.netlify.com)   
 
 Feel free to reach out for collaborations or a friendly chat! 😊
