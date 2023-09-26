@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **darrenezra902@gmail.com**
 
-- ⚡ Fun fact **I'm broke**
+- ⚡ Fun fact **I like to be busy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
