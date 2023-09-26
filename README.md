@@ -1,7 +1,7 @@
 
 <div align="center">
-### Darren Ezra
-#### A person who has design skills, and has the curiosity to become a Full Stack Developer
+<h1>I'm Darren Ezra</h1>
+<h3>A person who has design skills, and has the curiosity to become a Full Stack Developer</h3>
 </div>
 
 <div widt="100%" align="center">
