@@ -13,7 +13,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=renderdek90&label=Profile%20views&color=0e75b6&style=flat" alt="renderdek90" />
 </div>
-
+<br>
 <div widt="100%" align="center">
   <img alt="code_animation" src="https://github.com/RenderDek90/RenderDek90/blob/main/BannerGithub.jpg" />  
 </div>
