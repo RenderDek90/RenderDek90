@@ -16,7 +16,7 @@
 </div>
 
 <div widt="100%" align="center">
-  <img alt="code_animation" width="50%" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />  
+  <img alt="code_animation" width="50%" src="https://github.com/RenderDek90/RenderDek90/blob/main/BannerGithub.jpg" />  
 </div>
 
 <hr />
