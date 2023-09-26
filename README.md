@@ -1,5 +1,5 @@
 <div align="center">
-<h2>I'm Darren Ezra</h2>
+<h1>I'm Darren Ezra</h1>
 <h3>A person who has design skills, and has the curiosity to become a Full Stack Developer</h3>
 </div>
 
