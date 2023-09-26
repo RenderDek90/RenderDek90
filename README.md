@@ -37,6 +37,6 @@
 
 
 <p>
-  <img align="left" alt="stats" src="https://github-readme-stats.vercel.app/api?username=renderdek90&show_icons=true&theme=radical" />
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=renderdek90&" alt="renderdek90" />
+  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=renderdek90&show_icons=true&theme=radical" />
+  <img alt="readme_steaks" src="https://github-readme-streak-stats.herokuapp.com/?user=renderdek90&" alt="renderdek90" />
 </p>
