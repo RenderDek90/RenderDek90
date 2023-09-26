@@ -1,11 +1,16 @@
-### Hi there 👋, I'm Darren Ezra
+
+<div align="center">
+### Darren Ezra
 #### A person who has design skills, and has the curiosity to become a Full Stack Developer
+</div>
+
 <div widt="100%" align="center">
-<img alt="code_animation" width="50%" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />  
+  <img alt="code_animation" width="50%" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />  
 </div>
 
 <hr />
 👋 Hi, my name is Darren Ezra. I'm passionate about design and coding, and I'm on a journey to become a full-stack developer. Combining design and coding is my forte, and I'm always eager to learn new things.
+
 🚀 Currently, I'm diving into the MERN stack (MongoDB, Express.js, React, and Node.js) as I gear up for my next thrilling project. While I'm relatively new to coding, I'm excited to learn and take on new challenges. Stay tuned for updates and exciting projects in the pipeline!
 
 ## About Me
