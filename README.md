@@ -15,7 +15,7 @@
 </div>
 
 <div widt="100%" align="center">
-  <img alt="code_animation" width="50%" src="https://github.com/RenderDek90/RenderDek90/blob/main/BannerGithub.jpg" />  
+  <img alt="code_animation" src="https://github.com/RenderDek90/RenderDek90/blob/main/BannerGithub.jpg" />  
 </div>
 
 <hr />
