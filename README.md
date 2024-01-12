@@ -36,7 +36,7 @@
 
 🚀 Full Stack Development: MERN Stack  
 💡 Strong Design Background: Adobe Suite, Figma, Blender  
-💻 Proficient in: HTML, CSS, JavaScript, ReactJS, Laravel, Flutter  
+💻 Proficient in: HTML, CSS, JavaScript, ReactJS, Laravel  
 🎨 Design Skills: Graphic Design, UI/UX, Video Editing  
 
 <h2 align="center">Let's Connect!</h2>
