@@ -24,9 +24,8 @@
 <p>🚀 Currently, I'm diving into the MERN stack (MongoDB, Express.js, React, and Node.js) as I gear up for my next thrilling project. Stay tuned for updates and exciting projects in the pipeline!</p>
 
 🌍 Located in North Jakarta, Indonesia  
-🎓 Graduating Soon from Bina Nusantara University  
+🎓 Graduated from Bina Nusantara University, Indonesia
 📚 Enthusiastic Learner | Creative Thinker  
-🔭 I’m currently working on my thesis project  
 🤔 I’m looking for help with tips for being a better developer  
 ⚡ Fun fact: I'm an eater 
 
