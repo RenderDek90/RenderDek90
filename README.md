@@ -41,7 +41,7 @@
 <h2 align="center">Let's Connect!</h2>
 
 <div align="center">
-  <p>darrenezra902@gmail.com | LinkedIn: <a href="https://www.linkedin.com/in/darren-ezra-9090/" target="_blank">Darren Ezra</a> | Web : <a href="https://dsite.netlify.com">DSITE</a></p>
+  <p>darrenezra902@gmail.com | LinkedIn: <a href="https://www.linkedin.com/in/darren-ezra-9090/" target="_blank">Darren Ezra</a> | Web : <a href="https://renderdek90.github.io/V2-DSITE/">DSITE</a></p>
 </div>
 
 <h2 align="center">Feel free to reach out for collaborations or a friendly chat! 😊</h2>
